@@ -25,7 +25,7 @@ const Home = () => {
       }}
       >
       
-      <h1 style={{ marginBottom: "20px", color: "#333" }}>Canvas Editor </h1>
+      <h1 style={{ marginBottom: "20px", color: "#333" }}>2D Canvas Editor </h1>
       <button onClick={createNewCanvas}  
        style={{
           padding: "12px 24px",
